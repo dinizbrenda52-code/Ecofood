@@ -1,4 +1,4 @@
-Requisitos do Sistema – EcoFood
+Requisitos do Sistema
 
 Atores
 Usuário
