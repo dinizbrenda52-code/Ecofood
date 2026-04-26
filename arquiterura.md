@@ -1,4 +1,4 @@
-Arquitetura do Sistema – EcoFood
+Arquitetura do Sistema
 O sistema EcoFood foi projetado como uma aplicação web com arquitetura cliente-servidor, separando responsabilidades entre frontend, backend e banco de dados.
 
 Modelo Arquitetural (C4)
